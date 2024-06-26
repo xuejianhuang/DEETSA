@@ -1,0 +1,54 @@
+{
+  "entities": [
+    "Rumor",
+    "中国互联网联合辟谣平台",
+    "Disinformation",
+    "occurrence",
+    "2022"
+  ],
+  "entities_scores": [
+    0.9607999920845032,
+    0.45320001244544983,
+    0.3183000087738037,
+    0.2969000041484833,
+    0.29600000381469727
+  ],
+  "best_guess_lbl": [
+    "document"
+  ],
+  "all_fully_matched_captions": [],
+  "all_partially_matched_captions": [],
+  "partially_matched_no_text": [
+    {
+      "page_link": "https://app.xinhuanet.com/news/article.html?articleId=9e6586bff3b096041e7133dde4f1ead8",
+      "image_link": "https://xhsc.app.xinhuanet.com/cms/article/image/1211703337_1669113715370.png",
+      "html_path": "./inverse_search/1705.html",
+      "title": "多地网传“有人抢小孩”？真相是这样的…… - 新华网客户端"
+    },
+    {
+      "page_link": "https://app.xinhuanet.com/news/article.html?articleId=4274ac8d-b4d5-4945-93e5-ae3c9d66472c",
+      "image_link": "https://xhsc.app.xinhuanet.com/resource/xhh/8baa41ec-a59f-49e6-b2c0-52fad5f52dd6/image/20230130/6f1cfcbc-cbb0-9ffe-055b-74c0cfe8ca5c.jpg",
+      "html_path": "./inverse_search/1706.html",
+      "title": "2023年了！这些谣言你还会相信吗？中国互联网联合辟谣平台2022年度网络谣言盘点 - 新华网客户端"
+    },
+    {
+      "page_link": "https://app.xinhuanet.com/news/article.html?articleId=6258ffac5366a7313d9f8eefca67ffa8",
+      "image_link": "https://xhsc.app.xinhuanet.com/cms/article/image/c8c90efa9b9a4498a73e06c0fbb873f3.jpg",
+      "html_path": "./inverse_search/1707.html",
+      "title": "2023年了！这些谣言你还会相信吗？中国互联网联合辟谣平台2022年度网络谣言盘点 - 新华网客户端"
+    },
+    {
+      "page_link": "http://ah.anhuinews.com/py/202211/t20221123_6526009.html",
+      "image_link": "http://ah.anhuinews.com/py/202211/W020221123321678935272.png",
+      "html_path": "./inverse_search/1708.html",
+      "title": "多地网传“有人抢小孩”？真相是这样的……_中安在线"
+    },
+    {
+      "page_link": "https://www.xhby.net/index/202301/t20230130_7813650.shtml",
+      "image_link": "https://www.xhby.net/index/202301/W020230130577149169850.jpeg",
+      "html_path": "./inverse_search/1709.html",
+      "title": "2023年了！这些谣言你还会相信吗？_新华报业网"
+    }
+  ],
+  "fully_matched_no_text": []
+}

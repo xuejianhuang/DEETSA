@@ -1,0 +1,12 @@
+wordcloud==1.8.1
+torch==1.12.1
+torchvision==0.13.1
+tqdm==4.63.1
+Pillow==8.4.0
+torchmetrics==1.4.0.post0
+pandas==1.1.5
+seaborn==0.11.2
+transformers==4.41.2
+numpy==1.26.4
+jieba==0.42.1
+matplotlib==3.3.4

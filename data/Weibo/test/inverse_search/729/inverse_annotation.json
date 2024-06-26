@@ -1,0 +1,1 @@
+{"entities": ["Line", "Font", "Screenshot", "Text", "Product"], "entities_scores": [0.4010505676269531, 0.39294683933258057, 0.3707571029663086, 0.36088475584983826, 0.3523925244808197], "best_guess_lbl": ["screenshot"], "all_fully_matched_captions": [], "all_partially_matched_captions": [], "partially_matched_no_text": [], "fully_matched_no_text": []}

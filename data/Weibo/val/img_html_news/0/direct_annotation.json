@@ -1,0 +1,51 @@
+{
+  "images_with_captions": [],
+  "images_with_no_captions": [
+    {
+      "img_link": "https://opengraph.githubassets.com/772cd76325fa2de0e52dacea15d0979eb88720d4ecbee92afec6287cb8f223cd/JoeWoo/tyccl",
+      "page_link": "https://github.com/JoeWoo/tyccl/blob/master/lib/cilin.txt",
+      "domain": "github.com",
+      "snippet": "tyccl/cilin.txt at master · JoeWoo/tyccl · GitHub",
+      "image_path": "./img_html_news/2432.jpg",
+      "html_path": "./img_html_news/2432.html",
+      "page_title": "tyccl/cilin.txt at master · JoeWoo/tyccl · GitHub"
+    },
+    {
+      "img_link": "https://opengraph.githubassets.com/a8c30bf6a92594cf8f94b21c180b09e01691e9043ae9e8992a348ac8cc981c2e/taozhijiang/chinese_correct_wsd",
+      "page_link": "https://github.com/taozhijiang/chinese_correct_wsd/blob/master/HIT-IRLab-%E5%90%8C%E4%B9%89%E8%AF%8D%E8%AF%8D%E6%9E%97%EF%BC%88%E6%89%A9%E5%B1%95%E7%89%88%EF%BC%89_full_2005.3.3.txt",
+      "domain": "github.com",
+      "snippet": "chinese_correct_wsd/HIT-IRLab-同义词词林（扩展版）_full_2005.3.3 ...",
+      "image_path": "./img_html_news/2433.jpg",
+      "html_path": "./img_html_news/2433.html",
+      "page_title": "chinese_correct_wsd/HIT-IRLab-同义词词林（扩展版）_full_2005.3.3.txt at master · taozhijiang/chinese_correct_wsd · GitHub"
+    },
+    {
+      "img_link": "https://opengraph.githubassets.com/3051da825768459f310a7a335b164efac091bbf24e67a985a7d3274615c6f519/TmengT/WordSimilarity",
+      "page_link": "https://github.com/TmengT/WordSimilarity/blob/master/data/dictionary/synonym/CoreSynonym.txt",
+      "domain": "github.com",
+      "snippet": "WordSimilarity/CoreSynonym.txt at master · TmengT/WordSimilarity ...",
+      "image_path": "./img_html_news/2434.jpg",
+      "html_path": "./img_html_news/2434.html",
+      "page_title": "WordSimilarity/CoreSynonym.txt at master · TmengT/WordSimilarity · GitHub"
+    },
+    {
+      "img_link": "https://opengraph.githubassets.com/a4ed409f4c39e6ee2822edafa911223d2ebb702e648d5d73bd01add678be2c8e/Baichenjia/Graduation-design",
+      "page_link": "https://github.com/Baichenjia/Graduation-design/blob/master/emotion/mysite/Label_extract/hit_corpus/hit_synonym.txt",
+      "domain": "github.com",
+      "snippet": "Graduation-design/hit_synonym.txt at master · Baichenjia ...",
+      "image_path": "./img_html_news/2435.jpg",
+      "html_path": "./img_html_news/2435.html",
+      "page_title": "Graduation-design/hit_synonym.txt at master · Baichenjia/Graduation-design · GitHub"
+    },
+    {
+      "img_link": "https://opengraph.githubassets.com/d4b1779bc965fb2ce9cd685b50f824d0099a912aa3d071a5cd8780e9c69b3f09/shijiebei2009/Algorithms",
+      "page_link": "https://github.com/shijiebei2009/Algorithms/blob/master/src/main/resources/cilin.txt",
+      "domain": "github.com",
+      "snippet": "Algorithms/cilin.txt at master · shijiebei2009/Algorithms · GitHub",
+      "image_path": "./img_html_news/2436.jpg",
+      "html_path": "./img_html_news/2436.html",
+      "page_title": "Algorithms/cilin.txt at master · shijiebei2009/Algorithms · GitHub"
+    }
+  ],
+  "images_with_caption_matched_tags": []
+}

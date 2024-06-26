@@ -1,0 +1,89 @@
+{
+  "images_with_captions": [
+    {
+      "img_link": "https://compote.slate.com/images/68ac0e99-761d-42b8-b91c-f614e20b0eeb.jpeg?width=1200&rect=1560x1040&offset=0x0",
+      "page_link": "https://slate.com/news-and-politics/2020/12/india-farmer-protests-modi.html",
+      "domain": "slate.com",
+      "snippet": "Why India just had the biggest protest in world history.",
+      "image_path": "img_html_news/32776.jpg",
+      "html_path": "img_html_news/32776.html",
+      "page_title": "Why India just had the biggest protest in world history.",
+      "caption": {
+        "alt_node": "Protesters are pushed back by police."
+      }
+    },
+    {
+      "img_link": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/GP56NBSXUVJAJAIFWQ3CCIJVAU.jpg",
+      "page_link": "https://www.reuters.com/world/india/amid-covid-chaos-protests-indias-farmers-eye-record-wheat-crop-2021-04-29/",
+      "domain": "www.reuters.com",
+      "snippet": "Amid COVID chaos and protests, India's farmers eye record wheat ...",
+      "image_path": "img_html_news/32777.jpg",
+      "html_path": "img_html_news/32777.html",
+      "page_title": "Amid COVID chaos and protests, India's farmers eye record wheat crop | Reuters",
+      "caption": {
+        "alt_node": "Labourers wearing masks shift wheat crop from a trolley to remove dust from the crop at a wholesale grain market during an extended nationwide lockdown to slow the spreading of coronavirus disease (COVID-19) in Chandigarh"
+      }
+    },
+    {
+      "img_link": "https://cdn.downtoearth.org.in/library/large/2020-12-07/0.34808300_1607342722_farmer-2.jpg",
+      "page_link": "https://www.downtoearth.org.in/blog/agriculture/farm-laws-2020-who-are-they-meant-to-serve--74540",
+      "domain": "www.downtoearth.org.in",
+      "snippet": "Farm laws 2020: Who are they meant to serve?",
+      "image_path": "img_html_news/32778.jpg",
+      "html_path": "img_html_news/32778.html",
+      "page_title": "Farm laws 2020: Who are they meant to serve?",
+      "caption": {
+        "alt_node": "In rushing the three farm bills through parliament on the strength of numbers, the Union government seems to have handed the short end of the stick to the states and farmers. ",
+        "title_node": "In rushing the three farm bills through parliament on the strength of numbers, the Union government seems to have handed the short end of the stick to the states and farmers. "
+      }
+    },
+    {
+      "img_link": "https://compote.slate.com/images/68ac0e99-761d-42b8-b91c-f614e20b0eeb.jpeg?width=780&height=520&rect=1560x1040&offset=0x0",
+      "page_link": "https://slate.com/news-and-politics/2020/12/india-farmer-protests-modi.html",
+      "domain": "slate.com",
+      "snippet": "Why India just had the biggest protest in world history.",
+      "image_path": "img_html_news/32779.jpg",
+      "html_path": "img_html_news/32779.html",
+      "page_title": "Why India just had the biggest protest in world history.",
+      "caption": {
+        "alt_node": "Protesters are pushed back by police."
+      }
+    },
+    {
+      "img_link": "https://media.npr.org/assets/img/2021/11/19/ap21323148249282_wide-4db35b34a9f05094899a066c89bcb7784bb7668e.jpg",
+      "page_link": "https://www.npr.org/2021/11/19/1057127412/india-will-repeal-controversial-farm-laws-that-led-to-massive-protests",
+      "domain": "www.npr.org",
+      "snippet": "India will repeal controversial farm laws that led to massive ...",
+      "image_path": "img_html_news/32781.jpg",
+      "html_path": "img_html_news/32781.html",
+      "page_title": "India will repeal controversial farm laws that led to massive protests : NPR",
+      "caption": {
+        "p_class_caption": "Members of Communist Party of India shout slogans during a protest against farm laws in Mumbai, India, Sept. 27, 2021. Prime Minister Narendra Modi, said Friday that his government will withdraw the controversial farm laws that were met with year-long demonstrations from tens of thousands of farmers who said the laws will shatter their livelihoods."
+      }
+    },
+    {
+      "img_link": "https://compote.slate.com/images/68ac0e99-761d-42b8-b91c-f614e20b0eeb.jpeg?crop=1560%2C1040%2Cx0%2Cy0",
+      "page_link": "https://slate.com/news-and-politics/2020/12/india-farmer-protests-modi.html",
+      "domain": "slate.com",
+      "snippet": "Why India just had the biggest protest in world history.",
+      "image_path": "img_html_news/32782.jpg",
+      "html_path": "img_html_news/32782.html",
+      "page_title": "Why India just had the biggest protest in world history.",
+      "caption": {
+        "alt_node": "Protesters are pushed back by police."
+      }
+    }
+  ],
+  "images_with_no_captions": [
+    {
+      "img_link": "https://c8.alamy.com/comp/2E5747Y/protesters-gathering-at-the-red-fort-during-the-demonstrationthousands-of-farmers-from-punjab-and-haryana-state-continue-to-protest-against-the-central-government-new-agricultural-three-laws-delhi-police-gave-permission-to-protesting-farmers-approx-62-miles-tractor-parade-on-republic-day-and-parade-start-from-singhu-tikri-and-ghazipur-borders-points-2E5747Y.jpg",
+      "page_link": "https://www.alamy.com/stock-photo/state-of-punjab.html?page=13",
+      "domain": "www.alamy.com",
+      "snippet": "State of punjab hi-res stock photography and images - Page 13 - Alamy",
+      "image_path": "img_html_news/32780.jpg",
+      "is_request_error": true,
+      "page_title": "State of punjab hi-res stock photography and images - Page 13 - Alamy"
+    }
+  ],
+  "images_with_caption_matched_tags": []
+}

@@ -1,0 +1,25 @@
+{
+  "entities": [
+    "Fête",
+    "Product",
+    "Crowd",
+    "Recreation",
+    "Event",
+    "Statistics"
+  ],
+  "entities_scores": [
+    0.40732574462890625,
+    0.356526255607605,
+    0.3448478579521179,
+    0.34079134464263916,
+    0.3050300180912018,
+    0.0
+  ],
+  "best_guess_lbl": [
+    "crowd"
+  ],
+  "all_fully_matched_captions": [],
+  "all_partially_matched_captions": [],
+  "partially_matched_no_text": [],
+  "fully_matched_no_text": []
+}

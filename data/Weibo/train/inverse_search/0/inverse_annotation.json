@@ -1,0 +1,61 @@
+{
+  "entities": [
+    "Zhoupu station",
+    "周浦公园",
+    "Shanghai Observer",
+    "Pudong Branch, Shanghai Municipal Public Security Bureau",
+    "Sina Corporation"
+  ],
+  "entities_scores": [
+    0.3938550055027008,
+    0.2707980275154114,
+    0.24799999594688416,
+    0.24526701867580414,
+    0.24269999563694
+  ],
+  "best_guess_lbl": [
+    "screenshot"
+  ],
+  "all_fully_matched_captions": [],
+  "all_partially_matched_captions": [
+    {
+      "page_link": "https://www.guancha.cn/politics/2022_06_11_644092.shtml?s=zwyxgtjdt",
+      "image_link": "https://i.guancha.cn/news/mainland/2022/06/11/20220611150903531.jpg",
+      "title": "上海浦东近日发生强奸杀人案？谣言！ - 观察者",
+      "caption": {
+        "title_node": "点击查看大图"
+      },
+      "html_path": "./inverse_search/3103.html"
+    },
+    {
+      "page_link": "https://www.guancha.cn/politics/2022_06_11_644092.shtml?s=zwyxgtjbt",
+      "image_link": "https://i.guancha.cn/news/mainland/2022/06/11/20220611150903531.jpg",
+      "title": "上海浦东近日发生强奸杀人案？谣言！ - guancha.cn",
+      "caption": {
+        "title_node": "点击查看大图"
+      },
+      "html_path": "./inverse_search/3104.html"
+    }
+  ],
+  "partially_matched_no_text": [
+    {
+      "page_link": "https://china.postsen.com/local/14096/It-is-reported-that-a-man-killed-a-woman-on-the-street-in-Shanghai-and-the-woman-was-cut-throat-and-covered-with-blood-The-mainland-was-completely-banned-Photos.html",
+      "image_link": "https://china.postsen.com/temp/resized/medium_2022-09-24-d11de91f61.jpg",
+      "html_path": "./inverse_search/3101.html",
+      "title": "Attention Required! | Cloudflare"
+    },
+    {
+      "page_link": "https://yrd.huanqiu.com/article/48OCyK0jc9D",
+      "image_link": "https://rs1.huanqiucdn.cn/dp/api/files/imageDir/d926c710c9b1e76a090e95ed64ab7ac8.png",
+      "html_path": "./inverse_search/3102.html",
+      "title": "上海浦东近日发生强奸杀人案？谣言！杜撰者已被警方批评教育"
+    },
+    {
+      "page_link": "https://m.guancha.cn/politics/2022_06_11_644092.shtml",
+      "image_link": "https://i.guancha.cn/news/mainland/2022/06/11/20220611150903531.jpg!wap.jpg",
+      "html_path": "",
+      "title": "上海浦东近日发生强奸杀人案？谣言！-观察者网"
+    }
+  ],
+  "fully_matched_no_text": []
+}

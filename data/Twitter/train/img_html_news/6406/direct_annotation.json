@@ -1,0 +1,43 @@
+{
+  "images_with_captions": [
+    {
+      "img_link": "https://ca-times.brightspotcdn.com/dims4/default/7f0fcc7/2147483647/strip/true/crop/4738x3159+0+0/resize/1200x800!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa8%2Ff4%2F8ab4a41d4fd1bdb87fe26915fccb%2Fbiden-28357.jpg",
+      "page_link": "https://www.latimes.com/politics/story/2021-07-30/delta-variant-vaccine-mandates-masks-politics",
+      "domain": "www.latimes.com",
+      "snippet": "Analysis: COVID Delta variant and the 2022 midterm election - Los ...",
+      "image_path": "./img_html_news/1954.jpg",
+      "html_path": "./img_html_news/1954.html",
+      "page_title": "Analysis: COVID Delta variant and the 2022 midterm election - Los Angeles Times",
+      "caption": {
+        "alt_node": "Biden holds up a note card while speaking at a podium at the White House",
+        "div_class_fig-caption": "President Biden shows a card with the number of COVID-19-related American deaths as he speaks Thursday about new vaccine requirements for federal workers."
+      }
+    },
+    {
+      "img_link": "https://tenney.house.gov/sites/evo-subsites/tenney.house.gov/files/styles/evo_featured_image/public/evo-media-image/my-votes-explained17.jpg?h=8abcec71&itok=2UIQSx3E",
+      "page_link": "https://tenney.house.gov/about/my-votes-explained",
+      "domain": "tenney.house.gov",
+      "snippet": "My Votes Explained | Representative Claudia Tenney",
+      "image_path": "./img_html_news/1955.jpg",
+      "html_path": "./img_html_news/1955.html",
+      "page_title": "My Votes Explained | Representative Claudia Tenney",
+      "caption": {
+        "alt_node": "my votes explained 2"
+      }
+    },
+    {
+      "img_link": "https://storage.googleapis.com/cdn.thenevadaindependent.com/2022/11/58f1ddf9-voting-110822-11-scaled.jpg",
+      "page_link": "https://thenevadaindependent.com/article/the-early-voting-blog-2022",
+      "domain": "thenevadaindependent.com",
+      "snippet": "The (now-post) early voting blog, 2022 – The Nevada Independent",
+      "image_path": "./img_html_news/1956.jpg",
+      "html_path": "./img_html_news/1956.html",
+      "page_title": "The (now-post) early voting blog, 2022 – The Nevada Independent",
+      "caption": {
+        "caption_node": "Margins (numbers in thousands)"
+      }
+    }
+  ],
+  "images_with_no_captions": [],
+  "images_with_caption_matched_tags": []
+}

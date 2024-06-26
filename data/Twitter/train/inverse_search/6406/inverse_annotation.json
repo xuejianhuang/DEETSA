@@ -1,0 +1,23 @@
+{
+  "entities": [
+    "Line",
+    "Font",
+    "Diagram",
+    "Text",
+    "Product"
+  ],
+  "entities_scores": [
+    0.40490639209747314,
+    0.3828885853290558,
+    0.3660827875137329,
+    0.36068981885910034,
+    0.35084253549575806
+  ],
+  "best_guess_lbl": [
+    "plot"
+  ],
+  "all_fully_matched_captions": [],
+  "all_partially_matched_captions": [],
+  "partially_matched_no_text": [],
+  "fully_matched_no_text": []
+}
