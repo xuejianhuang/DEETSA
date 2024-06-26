@@ -60,10 +60,10 @@ def generate_wordcloud(json_data, font_path, output_path, lang='zh'):
 
 
 if __name__ == '__main__':
-    # json_data='../data/weibo/dataset_items_merged.json'
+    # json_data='./data/weibo/dataset_items_merged.json'
     # font_path = 'C:/Windows/Fonts/simhei.ttf'  # Chinese font
     # output_path='wordcloud_weibo.png'
-    json_data = '../data/Twitter/dataset_items_merged.json'
+    json_data = './data/Twitter/dataset_items_merged.json'
     font_path = 'C:\\Windows\\Fonts\\Arial.TTF'  # English font
     output_path = 'wordcloud_twitter.png'
 
