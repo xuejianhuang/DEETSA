@@ -1,2 +1,2 @@
-# MST
-Multi-View Spatio-Temporal Learning with Dual Dynamic Graph Convolutional Networks for Rumor Detection
+# DEETSA
+Code for the paper “Dual evidence enhancement and text-image similarity awareness for early multimodal rumor detection”.
