@@ -24,7 +24,7 @@ We have preprocessed the original data. For the complete dataset, please downloa
 * torchvision==0.13.1
 * tqdm==4.63.1
 * Pillow==8.4.0
-vtorchmetrics==1.4.0.post0
+* torchmetrics==1.4.0.post0
 * pandas==1.1.5
 * seaborn==0.11.2
 * transformers==4.41.2
