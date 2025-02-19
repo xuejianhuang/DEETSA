@@ -11,7 +11,7 @@ def parse_arguments():
     parser.add_argument('--dataset', type=str, default='twitter')
     parser.add_argument('--model', type=str, default='DEETSA')  #DEETSA/TETSA/DEE/TSA/TIM/I_TSA/T_TSA/text/image/
     parser.add_argument('--batch', type=int, default=32)
-    parser.add_argument('--seed', type=int, default=666, help="The random seed for initialization.")
+    parser.add_argument('--seed', type=int, default=2024, help="The random seed for initialization.")
     args = parser.parse_args()
     return args
 
